@@ -25,7 +25,7 @@ public class Queens {
             }
             System.out.println();
         }  
-        System.out.println();
+
     }
 
 
